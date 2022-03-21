@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Mar 2022 23:51:27 at https://blazecrackz.biz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blazecrackz.biz/ -O1 "C:\Users\PC 1\Desktop\spotify" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:51:45	Error: 	"Not Found" (404) at link https://blazecrackz.biz/img/favicon.ico (from https://blazecrackz.biz/)
+23:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://appbat.co/social-share-image.jpg (from https://blazecrackz.biz/)
+23:51:45	Warning: 	Retry after error -4 (Connect Error) at link https://appbat.co/twitter-share-image.jpg (from https://blazecrackz.biz/)
+23:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://appbat.co/social-share-image.jpg (from https://blazecrackz.biz/)
+23:51:47	Warning: 	Retry after error -4 (Connect Error) at link https://appbat.co/twitter-share-image.jpg (from https://blazecrackz.biz/)
+23:51:49	Error: 	"Connect Error" (-4) after 2 retries at link https://appbat.co/social-share-image.jpg (from https://blazecrackz.biz/)
+23:51:49	Error: 	"Connect Error" (-4) after 2 retries at link https://appbat.co/twitter-share-image.jpg (from https://blazecrackz.biz/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 seconds : 40 links scanned, 31 files written (1273617 bytes overall) [1006274 bytes received at 45739 bytes/sec], 381354 bytes transferred using HTTP compression in 12 files, ratio 21%, 3.0 requests per connection
+(3 errors, 4 warnings, 0 messages)
